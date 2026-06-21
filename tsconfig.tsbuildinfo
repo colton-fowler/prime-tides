@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/discoveryhint.tsx","./src/components/discoveryoverlay.tsx","./src/components/primetidesbackground.tsx","./src/math/fft.ts","./src/math/sessionseed.ts","./src/ocean/oceanrenderer.ts","./src/workers/primefft.worker.ts"],"version":"5.8.3"}
