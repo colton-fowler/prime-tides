@@ -11,9 +11,13 @@ A fullscreen animated ocean background for a software engineer's portfolio. The 
 5. Render a calm, moonlit Atlantic ocean on HTML Canvas
 
 The viewer sees a beautiful ocean first. The mathematical origin reveals itself only on closer inspection.
+<p align="center">
+  <img src="screenshots/main.png" width="800">
+</p>
 
-[<video src="screenshots/showcase.mp4" controls width="900"></video>](https://github.com/colton-fowler/prime-tides/blob/main/screenshots/showcase.mp4)
-
+<p align="center">
+  <img src="screenshots/primeScreen.png" width="800">
+</p>
 ## Stack
 
 - React 19 + TypeScript
