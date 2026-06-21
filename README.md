@@ -12,7 +12,7 @@ A fullscreen animated ocean background for a software engineer's portfolio. The 
 
 The viewer sees a beautiful ocean first. The mathematical origin reveals itself only on closer inspection.
 
-<video src="screenshots/showcase.mp4" controls width="900"></video>
+[<video src="screenshots/showcase.mp4" controls width="900"></video>](https://github.com/colton-fowler/prime-tides/blob/main/screenshots/showcase.mp4)
 
 ## Stack
 
