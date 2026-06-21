@@ -13,11 +13,7 @@ A fullscreen animated ocean background for a software engineer's portfolio. The 
 The viewer sees a beautiful ocean first. The mathematical origin reveals itself only on closer inspection.
 
 <p align="center">
-  <img src="screenshots/normalizedWaves.gif" width="800">
-</p>
-
-<p align="center">
-  <img src="screenshots/primeScreen.gif" width="800">
+  <img src="screenshots/showcase.mp4" width="800">
 </p>
 
 ## Stack
