@@ -1,6 +1,6 @@
 # Prime Tides
 
-A fullscreen animated ocean background for a software engineer's portfolio. The waves are driven by frequency peaks extracted from the Fast Fourier Transform of prime number gaps — mathematics hidden beneath a moonlit seascape.
+A fullscreen animated ocean background for my portfolio website later. The waves are driven by frequency peaks extracted from the Fast Fourier Transform of prime number gaps — mathematics hidden beneath a moonlit seascape.
 
 ## Concept
 
